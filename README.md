@@ -12,4 +12,9 @@ Jenkins (open source automation server)
 
 Azure DevOps
 
-KanBan Boards / Scrumblr.ca (To Do, Doing, Done) / flyingdonut.io
+Scrum/Sprint/Project Management:
+- KanBan Boards / Scrumblr.ca (To Do, Doing, Done) / flyingdonut.io
+
+saucelabs.com/ (cross browser testing)
+
+Containers: **Portability & Scale** (Docker - libraries + config)
